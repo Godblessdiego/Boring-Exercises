@@ -8,3 +8,7 @@ def reverse_string(string):
 
 test = reverse_string("Hello, World!")
 print(test)
+
+
+def reverse(string):
+    return
