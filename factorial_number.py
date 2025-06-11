@@ -8,3 +8,8 @@ def factorial(num):
         total_product *= n
 
     return total_product
+
+def main():
+    print(factorial(5))
+
+main()
